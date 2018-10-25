@@ -20,10 +20,10 @@ body {
 	/*border: 5px solid purple;*/
 }
 
-#root > * {
+/* #root > * {
 	width: 960px;
 	
-}
+} */
 
 span {
 	display: block;

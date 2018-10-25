@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 
 var data = {
   lyrics1: {
@@ -66,7 +66,7 @@ var data = {
    },
    lyrics2: {
     auteur: 'Booba',
-    titremusic: Petite Fille,
+    titremusic: `Petite Fille`,
     lyrics: `
     Izi
     La vie mais pas mon rêve, y'a qu'ça qu'tu m'enlèveras
@@ -374,7 +374,7 @@ var data = {
   },
   lyrics6: {
     auteur: 'Kalash (.feat Damso)',
-    titremusic: Mwaka Moon,
+    titremusic: `Mwaka Moon`,
     lyrics: `
 Pyroman
 Welcome to Mwaka Moon
@@ -464,7 +464,7 @@ I'm fucking out, aah`,
   },
   lyrics7: {
     auteur: 'Loud',
-    titremusic: 56K,
+    titremusic: `56K`,
     lyrics: 
     `I keep it movin', I don’t read gossip
     J’ai déjà lu votre avenir, vous étiez pris dans le passé
@@ -522,9 +522,9 @@ I'm fucking out, aah`,
   },
   lyrics8: {
     auteur: 'Disiz La Peste',
-    titremusic: Qu'ils ont de la chance,
+    titremusic: `Qu'ils ont de la chance`,
     lyrics: 
-    Comment j'vais faire si je les perds ?
+    `Comment j'vais faire si je les perds ?
     Comment feraient-ils si je partais ?
     Un jour, j'vais voir partir ma mère
     Ça, j'peux pas l'imaginer
@@ -607,14 +607,13 @@ I'm fucking out, aah`,
     Mais qu'ils ont de la chance
     D'avoir quitté ce monde
     Bien sûr, ils nous manquent
-    Mais quelle bénédiction
-    ,
+    Mais quelle bénédiction`
   },
   lyrics9: {
     auteur: 'Lompal',
-    titremusic: Bécane,
+    titremusic: `Bécane`,
     lyrics: 
-    Les yeux qui brillent, la conscience qui s'éteint, cerveau troué comme ma paire de Vans
+    `Les yeux qui brillent, la conscience qui s'éteint, cerveau troué comme ma paire de Vans
     Seul au milieu du passage piéton, la faucheuse me fait des appels de phares
     Le calme intérieur, la belle face changent tout c'que j'ai sous la chair en pierre
     Change la tisane de mon verre en bière, envie d'envoyer chier la Terre entière
@@ -667,14 +666,13 @@ I'm fucking out, aah`,
     Bébé, serre-moi fort, bébé, serre-moi fort
     Bébé, serre-moi fort, bébé, serre-moi fort
     Bébé, serre-moi fort, bébé, serre-moi fort
-    Bébé, serre-moi fort, bébé, serre-moi fort
-    ,
+    Bébé, serre-moi fort, bébé, serre-moi fort`
   },
   lyrics10: {
     auteur: 'Lorenzo',
-    titremusic: Keske tu veux,
+    titremusic: 'Keske tu veux',
     lyrics: 
-    Wesh qu'est-ce tu veux ?
+    `Wesh qu'est-ce tu veux ?
     Dis-moi keske tu veux ?
     Gros joint d'beuh
     J'la touche à deux
@@ -750,8 +748,7 @@ I'm fucking out, aah`,
     T'en veux un peu ?
     T'en veux un peu ? Suce ma queue
     Wesh qu'est-ce tu veux ?
-    Dis-moi keske tu veux ?
-    ,
+    Dis-moi keske tu veux ?`
   }
 };
 export default data;
